@@ -36,12 +36,12 @@ education:
   title: 教育经历
   info:
     - university: 南京师范大学
-    - degree: 计算机科学与技术
+      degree: 计算机科学与技术
       time: 2022.09 - 2025.06
       details: |
         - 第十四届蓝桥杯软件赛省赛（江苏）Java软件开发研究生组 二等奖
     - university: 金陵科技学院
-    - degree: 软件工程
+      degree: 软件工程
       time: 2017.09 - 2021.06
       details: |
         - 2021届优秀毕业生，三好学生
