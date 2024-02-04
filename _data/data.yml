@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: 胡程伟
@@ -90,58 +90,6 @@ experiences:
       company: 南京君度科技有限公司，南京
       details: |
         - 参与江西南城大数据以及上海市政府国产化项目。
-#    - role: UI Developer
-#      time: 2012 - 2014
-#      company: Amazon, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
-
-#certifications:
-#  title: Certifications
-#  list:
-#    - name: CV Builder
-#      start: 2020
-#      end: 2021
-#      organization: Microsoft
-#      credentialid: 111-222
-#      credentialurl: www.google.com
-#      credentialname: Google
-#      details: |
-#        Details about cert. Lorem ipsum dolor sit amet, consectetur
-#        adipiscing elit.
-#        Nullam eget orci purus. Nullam ultrices neque nibh.
-#        Aenean fermentum, felis vulputate suscipit accumsan,
-#        sem enim bibendum augue, sed convallis arcu lacus at dui.
-#        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#        Praesent venenatis erat non augue suscipit consectetur.
-#
-#        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#        justo diam viverra velit, sed rhoncus leo leo eu justo.
-#        Suspendisse placerat risus ante, sed porta nisi blandit at.
-#    - name: Git learning
-#      start: 2019
-#      end:
-#      organization: Microsoft
-#      credentialid: 111-222
-#      credentialurl: www.github.com
-#      credentialname: Github
-#      details: |
-#        Older certification. Lorem ipsum dolor sit amet, consectetur
-#        adipiscing elit.
-#        Nullam eget orci purus. Nullam ultrices neque nibh.
-#        Aenean fermentum, felis vulputate suscipit accumsan,
-#        sem enim bibendum augue, sed convallis arcu lacus at dui.
-#        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#        Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: 项目经历
@@ -149,6 +97,7 @@ projects:
     - title: CV社区项目
       time: 2024.01 - present
       details: |
+      
         技术栈：Spring Boot、MyBatis-Plus、Vue、MySQL、Redis、ElasticSearch、RabbitMQ、MongoDB、Docker、Nginx
 
         项目描述：CV社区是一个前后端分离的社区项目，采用主流的互联网技术架构、全新的 UI 设计、支持一键源码部署，拥有完整的最新论文分享/搜索/评论/统计流程等。
