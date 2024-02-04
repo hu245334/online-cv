@@ -15,11 +15,11 @@ sidebar:
   # Sidebar links
   email: elihill@163.com
   phone: 18795451009（微信同号）
-#  timezone: America/Cancun Timezone
+  #  timezone: America/Cancun Timezone
   citizenship:
   website: 47.116.193.176 #do not add http://
-#  linkedin: alandoe
-#  xing: alandoe
+  #  linkedin: alandoe
+  #  xing: alandoe
   github: hu245334
 #  telegram: # add your nickname without '@' sign
 #  gitlab:
@@ -28,88 +28,66 @@ sidebar:
 #  stack-overflow: # Number/Username, e.g. 123456/alandoe
 #  codewars:
 #  goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+#  pdf: http://www.africau.edu/images/default/sample.pdf
 
-  languages:
-    title: Languages
-    info:
-      - idiom: English
-        level: Native
+#  languages:
+#    title: Languages
+#    info:
+#      - idiom: English
+#        level: Native
+#
+#      - idiom: French
+#        level: Professional
+#
+#      - idiom: Spanish
+#        level: Professional
 
-      - idiom: French
-        level: Professional
+#  interests:
+#    title: Interests
+#    info:
+#      - item: Climbing
+#        link:
+#
+#      - item: Snowboarding
+#        link:
+#
+#      - item: Cooking
+#        link:
 
-      - idiom: Spanish
-        level: Professional
-
-  interests:
-    title: Interests
-    info:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
-career-profile:
-  title: Career Profile
-  summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+#career-profile:
+#  title: Career Profile
+#  summary: |
+#    Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#    adipiscing elit. You can [download this free resume/CV template here]().
+#    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#    Donec quam felis, ultricies nec, pellentesque eu.
+#    Second paragraph if required.
 education:
-  title: Education
+  title: 教育经历
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - university: 南京师范大学
+    - degree: 计算机科学与技术
+      time: 2022.09 - 2025.06
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        - 第十四届蓝桥杯软件赛省赛（江苏）Java软件开发研究生组 二等奖
+    - university: 金陵科技学院
+    - degree: 软件工程
+      time: 2017.09 - 2021.06
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - 2021届优秀毕业生，三好学生
 
 experiences:
-  title: Experiences
+  title: 实习经历
   info:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Java/Python开发实习生
+      time: 2023.09 - present
+      company: 亚信科技，南京
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Bullet point
+    - role: Java开发实习生
+      time: 2020.12-2021.5
+      company: 南京君度科技有限公司，南京
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,92 +96,136 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#    - role: UI Developer
+#      time: 2012 - 2014
+#      company: Amazon, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 
-certifications:
-  title: Certifications
-  list:
-    - name: CV Builder
-      start: 2020
-      end: 2021
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
-      details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
-        
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
-      end:
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.github.com
-      credentialname: Github
-      details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+#certifications:
+#  title: Certifications
+#  list:
+#    - name: CV Builder
+#      start: 2020
+#      end: 2021
+#      organization: Microsoft
+#      credentialid: 111-222
+#      credentialurl: www.google.com
+#      credentialname: Google
+#      details: |
+#        Details about cert. Lorem ipsum dolor sit amet, consectetur
+#        adipiscing elit.
+#        Nullam eget orci purus. Nullam ultrices neque nibh.
+#        Aenean fermentum, felis vulputate suscipit accumsan,
+#        sem enim bibendum augue, sed convallis arcu lacus at dui.
+#        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#        Praesent venenatis erat non augue suscipit consectetur.
+#
+#        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#        fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#        justo diam viverra velit, sed rhoncus leo leo eu justo.
+#        Suspendisse placerat risus ante, sed porta nisi blandit at.
+#    - name: Git learning
+#      start: 2019
+#      end:
+#      organization: Microsoft
+#      credentialid: 111-222
+#      credentialurl: www.github.com
+#      credentialname: Github
+#      details: |
+#        Older certification. Lorem ipsum dolor sit amet, consectetur
+#        adipiscing elit.
+#        Nullam eget orci purus. Nullam ultrices neque nibh.
+#        Aenean fermentum, felis vulputate suscipit accumsan,
+#        sem enim bibendum augue, sed convallis arcu lacus at dui.
+#        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#        Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: 项目经历
   intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  #    You can list your side projects in this
+  #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  info:
+    - title: CV社区项目
+      time: 2024.01 - present
+      details: |
+        技术栈：Spring Boot、MyBatis-Plus、Vue、MySQL、Redis、ElasticSearch、RabbitMQ、MongoDB、Docker、Nginx
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+        项目描述：CV社区是一个前后端分离的社区项目，采用主流的互联网技术架构、全新的 UI 设计、支持一键源码部署，拥有完整的最新论文分享/搜索/评论/统计流程等。
 
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        责任描述：作为开发发人员，主要负责登录认证、消息通知、文章模块、前端展示以及管理后台的开发工作。
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        核心技术：
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        - 通过验证码和前端保持半长链接映射关系，当用户扫码关注公众号并输入验证码后，发起回调，识别用户信息并找到对应半长链接，实现系统自动登录；
+        
+        - 将用户评论、点赞、收藏、系统消息发送到 RabbitMQ，实现消息的异步解耦，提升系统效率和服务稳定性；
+        
+        - 通过 Redis 实现计数统计和用户活跃度排行，并通过先写 MySQL，再删除 Redis 的方案来保证高并发场景下的缓存一致性。
+        
+        - 基于 ThreadLocal 在登录校验拦截器中封装线程隔离的全局上下文，以便在线程内部存储用户信息，减少用户信息的数据库查询次数。
+        
+        - 自定义实现 Markdown 编辑器，通过复制粘贴即可将非同源的图片下载并上传至 OSS 实现智能化转链，并借助线程池和异步任务提升系统的高并发能力；
+        
+        - 通过 Nginx 代理，将客户端请求转发到目标服务器的后端 API 接口，从而解决跨域问题；
+        
+        - 采用 HandlerExceptionResolver 的全局异常处理策略，提高了代码的健壮性和可维护性，优化了用户体验；
+        
+        - 通过 AOP + TraceID 记录接口访问日志，实现任务的追踪、监控和诊断。
+        
+        - 集成本地缓存 Guava 和 Caffeine，有效提高服务的吞吐率、QPS 近 30%；
+        
+        - 借助 Redis 的 zset 数据结构和幂等策略，实现用户活跃度排行榜；
+        
+        - 通过提前建立 Socket 链接，来解决本地服务启动时 8080 端口可能被占用的问题；
+        
+        - 搭建 Redis 集群、数据库的读写分离，实现服务的高可用和高性能；
+        
+        - 引入 Caffeine + Redis 构成多级缓冲，解决热门数据（首页流媒体、专栏教程）吞吐量瓶颈；
+        
+        - 借助 Redis 的 zet 数据结构实现轻量级的作者白名单，提升优秀作者发布文章的用户体验；
+        
+        - 采用自旋锁策略优化缓存架构，针对热 key 的并发访问进行同步，防止其失效时导致的缓存击穿；
+        
+        - 通过 Vue+element-plus 完成了前端的开发工作，界面非常漂亮，并且极大地提高了项目日常的运营效率。
+
+#  assignments:
+#    - title: Velocity
+#      link: "#hook"
+#      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#    - title: DevStudio
+#      link: "#"
+#      tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#    - title: Tempo
+#      link: "#"
+#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#    - title: Atom
+#      link: "#"
+#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#    - title: Delta
+#      link: "#"
+#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: 专业技能
+#  intro: >
+#    You can list your open source software contributions in this
+#    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   contributions:
     - title: Tempo
       link: "#"
@@ -240,26 +262,27 @@ publications:
       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-  title: Skills &amp; Proficiency
+  title: 专业技能
 
   toolset:
-    - name: Python & Django
-      level: 98%
+    - title: Java
+      tagline: "掌握 Java 基础知识，如集合框架、异常处理、Stream 流、反射机制等，了解Java17新特性；了解 Java 并发编程，掌握 CAS、锁机制、并发容器、线程池、ThreadLocal 等方面的知识，并在多个项目中实际应用多线程进行实践和性能优化。对JVM 虚拟机有深刻了解，包括JMM、GC 底层算法以及各种常见垃圾回收器的原理。"
 
-    - name: Javascript & jQuery
-      level: 98%
+    - title: Spring
+      tagline: "熟练使用 Spring、Spring MVC、Spring Boot和 MyBatis 等核心框架，能够迅速搭建项目。了解过这些框架的原理，并具备灵活扩展框架的能力。"
 
-    - name: Angular
-      level: 98%
+    - title: 数据库
+      tagline: "熟练使用 MySQL，熟悉索引、事务和锁机制等原理，具备一定的 SQL 和数据库调优经验(如查询优化、索引优化等)。"
 
-    - name: HTML5 & CSS
-      level: 95%
+    - title: 中间件
+      tagline: "掌握 Redis、Elasticsearch、RabbitMQ、ZooKeeper等中间件的使用，了解其应用场景和主要机制以及原理。"
 
-    - name: Ruby on Rails
-      level: 85%
+    - title: 实施
+      tagline: "了解 Docker 和 Kubernetes (K8s) 容器化部署技术，掌握常用命令，能编写 DockerFile 脚本进行项目部署."
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - title: 计算机基础
+      tagline: "熟悉计算机网络，如TCP、UDP、HTTP、HTTPS等常见网络协议。熟悉基本数据结构，如链表、栈、队列、哈希表、树、图等"
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+#footer: >
+#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
