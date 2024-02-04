@@ -30,39 +30,8 @@ sidebar:
 #  goodreads: # Number-Username, e.g. 123456-alandoe
 #  pdf: http://www.africau.edu/images/default/sample.pdf
 
-#  languages:
-#    title: Languages
-#    info:
-#      - idiom: English
-#        level: Native
-#
-#      - idiom: French
-#        level: Professional
-#
-#      - idiom: Spanish
-#        level: Professional
 
-#  interests:
-#    title: Interests
-#    info:
-#      - item: Climbing
-#        link:
-#
-#      - item: Snowboarding
-#        link:
-#
-#      - item: Cooking
-#        link:
 
-#career-profile:
-#  title: Career Profile
-#  summary: |
-#    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#    adipiscing elit. You can [download this free resume/CV template here]().
-#    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#    Donec quam felis, ultricies nec, pellentesque eu.
-#    Second paragraph if required.
 education:
   title: 教育经历
   info:
@@ -86,10 +55,11 @@ experiences:
       details: |
         - 参与OMS虚拟机服务开发。
     - role: Java开发实习生
-      time: 2020.12-2021.5
+      time: 2020.12 - 2021.05
       company: 南京君度科技有限公司，南京
       details: |
         - 参与江西南城大数据以及上海市政府国产化项目。
+
 
 projects:
   title: 项目经历
@@ -97,7 +67,6 @@ projects:
     - title: CV社区项目
       time: 2024.01 - present
       details: |
-      
         技术栈：Spring Boot、MyBatis-Plus、Vue、MySQL、Redis、ElasticSearch、RabbitMQ、MongoDB、Docker、Nginx
 
         项目描述：CV社区是一个前后端分离的社区项目，采用主流的互联网技术架构、全新的 UI 设计、支持一键源码部署，拥有完整的最新论文分享/搜索/评论/统计流程等。
@@ -138,68 +107,6 @@ projects:
         
         - 通过 Vue+element-plus 完成了前端的开发工作，界面非常漂亮，并且极大地提高了项目日常的运营效率。
 
-#  assignments:
-#    - title: Velocity
-#      link: "#hook"
-#      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#    - title: DevStudio
-#      link: "#"
-#      tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#    - title: Tempo
-#      link: "#"
-#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#    - title: Atom
-#      link: "#"
-#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#    - title: Delta
-#      link: "#"
-#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#oss:
-#  title: 专业技能
-##  intro: >
-##    You can list your open source software contributions in this
-##    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-##    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#  contributions:
-#    - title: Tempo
-#      link: "#"
-#      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#    - title: Atom
-#      link: "#"
-#      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#    - title: Delta
-#      link: "#"
-#      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-#publications:
-#  title: Publications
-#  intro: |
-#    You can list your publications in this section. Lorem ipsum dolor sit
-#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#    bibendum fringilla a eu lectus.
-#  papers:
-#    - title: The Art of Computer Programming
-#      link: "#"
-#      authors: Donald E. Knuth
-#      conference: Addison-Wesley, 1968
-#
-#    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#      link: "#"
-#      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#    - title: A syntax directed compiler for Algol 60
-#      link: "#"
-#      authors: Edgar T. Irons
-#      conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
   title: 专业技能
 
@@ -222,6 +129,3 @@ skills:
     - title: 计算机基础
       tagline: "熟悉计算机网络，如TCP、UDP、HTTP、HTTPS等常见网络协议。熟悉基本数据结构，如链表、栈、队列、哈希表、树、图等"
 
-
-#footer: >
-#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
