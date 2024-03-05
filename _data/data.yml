@@ -135,6 +135,15 @@ skills:
     - title: 计算机基础
       tagline: "熟悉计算机网络，如TCP、UDP、HTTP、HTTPS等常见网络协议。熟悉基本数据结构，如链表、栈、队列、哈希表、树、图等。"
 
+publications:
+    title: 个人论文
+    papers:
+      - title: Wavelet-based Fourier Information Interaction with Frequency Diffusion Adjustment for Underwater Image Restoration
+        link: https://arxiv.org/abs/2311.16845
+        authors: Chen Zhao, Weiling Cai, Chenyu Dong, Chengwei Hu
+        conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024
+
+
 career-profile:
     title: 自我评价
     summary: |
